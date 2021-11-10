@@ -1,0 +1,52 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /bindless2/0001.png
+map_Kd /bindless2/0002.png
+map_Kd /bindless2/0003.png
+map_Kd /bindless2/0004.png
+map_Kd /bindless2/0005.png
+map_Kd /bindless2/0006.png
+map_Kd /bindless2/0007.png
+map_Kd /bindless2/0008.png
+map_Kd /bindless2/0009.png
+map_Kd /bindless2/0010.png
+map_Kd /bindless2/0011.png
+map_Kd /bindless2/0012.png
+map_Kd /bindless2/0013.png
+map_Kd /bindless2/0014.png
+map_Kd /bindless2/0015.png
+map_Kd /bindless2/0016.png
+map_Kd /bindless2/0017.png
+map_Kd /bindless2/0018.png
+map_Kd /bindless2/0019.png
+map_Kd /bindless2/0020.png
+map_Kd /bindless2/0021.png
+map_Kd /bindless2/0022.png
+map_Kd /bindless2/0023.png
+map_Kd /bindless2/0024.png
+map_Kd /bindless2/0025.png
+map_Kd /bindless2/0026.png
+map_Kd /bindless2/0027.png
+map_Kd /bindless2/0028.png
+map_Kd /bindless2/0029.png
+map_Kd /bindless2/0030.png
+map_Kd /bindless2/0031.png
+map_Kd /bindless2/0032.png
+map_Kd /bindless2/0033.png
+map_Kd /bindless2/0034.png
+map_Kd /bindless2/0035.png
+map_Kd /bindless2/0036.png
+map_Kd /bindless2/0037.png
+map_Kd /bindless2/0038.png
+map_Kd /bindless2/0039.png
+map_Kd /bindless2/0040.png

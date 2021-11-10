@@ -1,0 +1,46 @@
+﻿  camera.cpp
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(22,25): warning C4305: '=': truncation from 'double' to 'float'
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(23,24): warning C4305: '=': truncation from 'double' to 'float'
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(43,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(44,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(45,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(52,71): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(53,71): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(54,71): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(62,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(63,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(64,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(73,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(74,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(75,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(82,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(83,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(84,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(91,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(92,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(93,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(152,16): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(153,16): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\camera.cpp(226,33): warning C4244: 'argument': conversion from 'double' to 'clock_t', possible loss of data
+  constantBuffer.cpp
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\constantBuffer.h(16,2): warning C4091: 'static ': ignored on left of 'types' when no variable is declared
+  D3D12Timer.cpp
+  main.cpp
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\constantBuffer.h(16,2): warning C4091: 'static ': ignored on left of 'types' when no variable is declared
+  object.cpp
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\constantBuffer.h(16,2): warning C4091: 'static ': ignored on left of 'types' when no variable is declared
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\object.cpp(75,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  renderer.cpp
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\constantBuffer.h(16,2): warning C4091: 'static ': ignored on left of 'types' when no variable is declared
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\renderer.cpp(587,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  texture.cpp
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\texture.cpp(545,41): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\projekt\texture.cpp(574,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  vertexbuffer.cpp
+  window.cpp
+  Generating code
+  103 of 936 functions (11.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  projekt.vcxproj -> H:\Users\FREDRIK\Documents\School\3DProjects\DX12\Project\x64\Release\projekt.exe
